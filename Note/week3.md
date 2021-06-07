@@ -23,19 +23,53 @@
 
 13  steTable[TMAX] 字串表  
 14  char *tokens[TMAX] 
-<img scr="./picture/20210310P2.png"/>
+
+<img src="./picture/20210310P2.png"/>
+
+* 指標(記憶體位置)
+
+> char *q,*r;  
+> *q 指的就是字元指標  
+> *r 指的就是字元  
+
+<img src="./picture/20210310P3.png"/>
+
+>char x = 'a';  
+>char *p = &x;  
+>*p = 'b'  
+>printf("")  
+
+* char是一個字元 故只佔101
+* 假設CPE是32位元 所以char*(指標)會佔101~104
+* &x 中的&是指x的位置
+
+<img src="./picture/20210310P4.png"/>
+
+>如果  
+>char *p; #沒有給值  
+>*p = 'b'; #造成系統錯誤  
+> 這就是「野指標」
+
+>int *p  
+>p++;  #是+4 假設是32位元的話  
+>p+3;  #是+12  
+>要注意平台的位元  
+
+>p++  
+>在int中視家memory的位置  
+>在memory中是加memory的值
 
 49  isAlpha 讀取字母  
 57  tokens 是把字元存入
 58  是複製  
 59  是補0  
-67  先把lex指標設成code
+67  先把lex指標設成code 
 
 
 #### fopen 補充
       r 打开只读文件，该文件必须存在。
 
-      r+ 打开可读写的文件，该文件必须存在。
+      r+ 打开可读写的文件，该文 件必须存在。
 
 
       rt+ 读写打开一个文本文件，允许读和写。
