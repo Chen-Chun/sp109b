@@ -14,21 +14,21 @@
 
 周次 | 內容
 -----|----------
-第1週 |
-第2週 |
-第3週 |
-第4週 |
-第5週 |
-第6週 |
-第7週 |
-第8週 |
-第9週 |
-第10週 |
-第11週 |
-第12週 |
-第13週 |
-第14週 |
-第15週 |
-第16週 |
-第17週 |
-第18週 |
+第1週 | 簡介與環境安裝
+第2週 | 編譯器
+第3週 | 編譯器 lex/if/while
+第4週 | ubuntu multipass + compiler + 組合語言  + CSS 第二週 + 優化算法，線性與整數規劃，搜尋法 + Compiler + Linux + 組合語言
+第5週 | 
+第6週 | 理論基礎＋組合語言
+第7週 | 
+第8週 | 函式庫 + Thread
+第9週 | posix + thread
+第10週 | Thread + OS
+第11週 | fork, fs, memory, Thread, Process, fork, io, memory
+第12週 | posix: fork, fs, shell
+第13週 | io/nonblocking/net
+第14週 | 虛擬機＋連結器+multipass
+第15週 | IPC 行程間通訊
+第16週 | 多人聊天室
+第17週 | 
+第18週 | 
