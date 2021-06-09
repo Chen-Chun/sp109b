@@ -17,7 +17,7 @@
 第1週 | 簡介與環境安裝
 第2週 | 編譯器
 第3週 | 編譯器 lex/if/while
-第4週 | ubuntu multipass + compiler + 組合語言  + CSS 第二週 + 優化算法，線性與整數規劃，搜尋法 + Compiler + Linux + 組合語言
+第4週 | ubuntu multipass + compiler + Linux + 組合語言 +  CSS 第二週 + 優化算法，線性與整數規劃，搜尋法 
 第5週 | 
 第6週 | 理論基礎＋組合語言
 第7週 | 
