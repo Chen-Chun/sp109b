@@ -12,6 +12,8 @@
 
 # 筆記說明
 
+筆記內容對應的程式碼來源 [陳鍾誠老師/SP109b](https://github.com/ccccourse/sp109b)
+
 周次 | 內容
 -----|----------
 [第1週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week1.md) | 簡介與環境安裝
