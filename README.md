@@ -12,25 +12,30 @@
 
 # 筆記說明
 
+筆記內容對應的[程式碼來源](https://github.com/ccccourse/sp) 由陳鍾誠老師提供  
+內容包含我對程式碼的理解和上課重點  
+如果有理解錯誤的部分或解釋不清楚的地方  
+歡迎指教  
+
 周次 | 內容
 -----|----------
-第1週 | 簡介與環境安裝
-第2週 | 編譯器
-第3週 | 編譯器 lex/if/while
-第4週 | ubuntu multipass + compiler + Linux + 組合語言 +  CSS 第二週 + 優化算法，線性與整數規劃，搜尋法 
-第5週 | 無
-第6週 | 理論基礎＋組合語言
-第7週 | 無
-第8週 | 函式庫 + Thread
-第9週 | posix + thread
-第10週 | Thread + OS
-第11週 | fork, fs, memory, Thread, Process, fork, io, memory
-第12週 | posix: fork, fs, shell
-第13週 | io/nonblocking/net
-第14週 | 虛擬機＋連結器+multipass
-第15週 | IPC 行程間通訊
-第16週 | 多人聊天室
-第17週 | 
+[第1週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week1.md) | 簡介與環境安裝
+[第2週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week2.md) | 編譯器
+[第3週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week3.md) | 編譯器 lex/if/while
+[第4週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week4.md) | ubuntu multipass/compiler/Linux/組合語言 + 優化算法/線性與整數規劃/搜尋法 
+[第5週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week5.md) | 虛擬機
+[第6週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week6.md) | 理論基礎＋組合語言
+[第7週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week7.md) | 無
+[第8週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week8.md) | 函式庫 + Thread
+[第9週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week9.md) | posix/thread
+[第10週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week10.md) | Thread + OS
+[第11週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week11.md) | fork/fs/memory/Thread/Process/io
+[第12週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week12.md) | posix: fork/fs/shell
+[第13週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week13.md) | io/nonblocking/net
+[第14週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week14.md) | 虛擬機＋連結器+multipass
+[第15週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week15.md) | IPC 行程間通訊
+[第16週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week16.md) | 多人聊天室
+[第17週](https://github.com/Chen-Chun/sp109b/blob/main/Note/week17.md) | 
 第18週 | 期末
 
 * 補充
