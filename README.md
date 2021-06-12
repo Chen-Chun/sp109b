@@ -12,7 +12,7 @@
 
 # 筆記說明
 
-筆記內容對應的程式碼來源 [陳鍾誠老師/SP109b](https://github.com/ccccourse/sp109b)
+筆記內容對應的[程式碼來源](https://github.com/ccccourse/sp) 由陳鍾誠老師提供
 
 周次 | 內容
 -----|----------
