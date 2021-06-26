@@ -32,9 +32,9 @@ epoll 新版poll
 執行程式  
 第1個 terminal  
 
-        #gcc -std=c99 server.c -o server  
-        #gcc -std=c99 client.c -o client  
-        #./server 8888  
+        gcc -std=c99 server.c -o server  
+        gcc -std=c99 client.c -o client  
+        ./server 8888  
 
 第2個 terminal 
 
@@ -56,14 +56,14 @@ epoll 新版poll
 > 一樣是使用tcp方式打開
 
 58 SOCK_STREAM 是指用串流的方式連線 就是tcp  
-* tcp 好處  
+> tcp 好處  
 自動重排 確保收到封包   
 
 程式碼解讀
 59 saddr = server位置 raddr = 接收位置  
 60 再呼叫函數前把位置清0  
 62 一開始設立的port=8888 再56行把函數從字串轉成整數
-* 既然原本就是整數為什麼不直接給sin_port要轉成htons呢?  
+> 既然原本就是整數為什麼不直接給sin_port要轉成htons呢?  
 因為不同系統會遇到不同轉換問題 造成排列順序不一 所以一開始就指定轉換一致 後續就不會造成問題
 
 64 指所有封包都要收
