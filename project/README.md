@@ -96,20 +96,6 @@
 >個人覺得這篇文章寫得很詳細 不用我在多做說明  
 參考[https://ithelp.ithome.com.tw/articles/10207695](https://ithelp.ithome.com.tw/articles/10207695)
 
-## 直播平台執行
-
-
-
-
-
-
-
-## 直播平台程式碼解讀
-
-
-
-
-
 
 ## 參考資料與版權申明:
 [illuspas LICENSE](https://github.com/illuspas/Node-Media-Server/blob/master/LICENSE)  
