@@ -96,6 +96,19 @@
 >個人覺得這篇文章寫得很詳細 不用我在多做說明  
 參考[https://ithelp.ithome.com.tw/articles/10207695](https://ithelp.ithome.com.tw/articles/10207695)
 
+## 執行結果
+先把專案下載下來
+
+    git clone https://github.com/illuspas/Node-Media-Server
+
+執行
+
+    npm i
+    node app.js
+
+執行成功畫面
+
+<img src="./picture/20210627P4.png"/>
 
 ## 參考資料與版權申明:
 [illuspas LICENSE](https://github.com/illuspas/Node-Media-Server/blob/master/LICENSE)  
